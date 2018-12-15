@@ -1,10 +1,10 @@
 # Site settings
-title:       Pratyush Kumar
-email:       me@pratyushkumar.me
+title:       Census Data
+email:       pratyush.01909@gmail.com
 author:      Pratyush Kumar
-description: "A Data Science blog."
+description: "India Census Data"
 baseurl:     ""
-url:         "https://pratyushkumar.me"
+url:         "https://censusdata.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
