@@ -9,6 +9,6 @@ tags: about
 </p> -->
 <br />
 Hi! I’m Pratyush, an Industrial Engineering graduate from IIT Roorkee currently working in AI firm ParallelDots as Data Scientist.
-<br /?
+<br />
 
 
